@@ -1,5 +1,5 @@
 # About-Us
-India's Fastest, Low Cost, Permisionless Carbon & Water Credits Protocol/Registry/Standard
+India's Fastest, Low Cost, Permissionless Carbon & Water Credits Protocol/Registry/Standard
 The Paris Agreement recognizes that Parties may engage in climate markets through decentralized, bilateral cooperative approaches 
 to achieve their nationally determined contributions (NDCs). However, climate markets trade different units, have differences in 
 governance rules, and operate under different technological systems. The differences in these processes constrain market integration and add to the complexity of conducting transactions. Under the Paris Agreement, which relies on a decentralized approach to markets, the UNIVERSAL CARBON REGISTRY (world's first semi-decentralized carbon registry) aims to reward all types of climate action via carbon finance and blockchain technology.
